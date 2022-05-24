@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\ПКР\Звіти 5\lab5.3b(PKR)\Source.cpp(191,22): warning C4018: '<': signed/unsigned mismatch
+D:\ПКР\Звіти 5\lab5.3b(PKR)\Source.cpp(193,23): warning C4018: '<': signed/unsigned mismatch
+D:\ПКР\Звіти 5\lab5.3b(PKR)\Source.cpp(238,20): warning C4018: '<': signed/unsigned mismatch
+D:\ПКР\Звіти 5\lab5.3b(PKR)\Source.cpp(241,16): warning C4018: '<': signed/unsigned mismatch
+D:\ПКР\Звіти 5\lab5.3b(PKR)\Source.cpp(354,7): warning C4101: 'spec': unreferenced local variable
+D:\ПКР\Звіти 5\lab5.3b(PKR)\Source.cpp(355,11): warning C4101: 'speciality': unreferenced local variable
+  lab5.3b(PKR).vcxproj -> D:\ПКР\Звіти 5\lab5.3b(PKR)\Debug\lab5.3b(PKR).exe
